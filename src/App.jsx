@@ -41,7 +41,7 @@ function App() {
       {/* <h1 className='text-4xl text-center text-white'>Password Generator</h1> */}
       <div className='w-full max-w-md mx-auto shadow-md rounded-lg border-solid border-2 border-sky-500 px-4 py-3 my-8 text-orange-500 bg-gray-700'>
         <h1 className='text-white text-center px-5 py-5 my-3'>Password Generator</h1>
-        <h1>Developed by : Yogesh Rana</h1>
+        {/* <h1>Developed by : Yogesh Rana</h1> */}
         <div className='flex shadow rounded-lg overflow-hidden mb-4'>
           <input type="text"
             value={Password}
